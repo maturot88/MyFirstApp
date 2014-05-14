@@ -19,6 +19,9 @@ public class MyFirstApp {
         System.out.println("Hello World");
         System.out.println("My name is Maturot 55024501");
 
+        
+        System.out.println("Information Technology");
+        System.out.println("University of Phayao");
     }
     
 }
